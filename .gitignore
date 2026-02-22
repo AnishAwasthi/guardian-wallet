@@ -1,0 +1,7 @@
+# Secrets — never commit
+.env
+*.dat
+
+# Environments & caches
+.venv/
+__pycache__/
